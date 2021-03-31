@@ -1,0 +1,6 @@
+framework module Pods_Aeth_Analytica_MachineTest {
+  umbrella header "Pods-Aeth_Analytica_MachineTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
